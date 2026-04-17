@@ -28,10 +28,10 @@ A multi-user blog platform built with Django that allows users to create, manage
 ## Screenshots
 
 ### Home Page
-![Sign In](screenshots/image1.png)
+![Sign In](blog_screenshot/image1.png)
 
 ### Blog Post View
-![Home](screenshots/image2.png)
+![Home](blog_screenshot/image2.png)
 
 ## Future Improvements
 
